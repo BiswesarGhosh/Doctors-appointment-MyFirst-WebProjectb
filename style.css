@@ -1,0 +1,139 @@
+
+#st img{
+    size: 20px;
+    width: 60px;
+}
+#st{
+    font-family: Lucida Handwriting;
+    color: #268454;
+    letter-spacing: 2px;
+    margin: 15px;
+    margin-top: 30px;
+    font-size: 25px;
+}
+#stt{
+    width: 12px;
+}
+
+nav ul{
+    text-align: center;
+}
+.nv{
+  background-color: #268454;
+  color: aliceblue;
+  
+}
+.nv li{
+  margin-left: 95px;
+  font-family: Georgia;
+  color: aliceblue;
+}
+.nv li:hover{
+  background-color: #1C6C43;
+  color: white;
+}
+#txt{
+  text-shadow: 2px 2px blue;
+}
+#button:hover{
+  transform: scale(1.08);
+	transition: 0.2s;
+}
+#doc{
+  color: #268454;
+  box-shadow: 2px 2px 2px .5px;
+  border-radius: 10px;
+}
+#doc:hover{
+  background-color: #268454;
+  color: white;
+  transform: scale(1.08);
+	transition: 0.4s;
+}
+#about{
+  text-shadow: 2px 2px #268454;
+}
+#about span{
+  text-shadow: 2px 2px black;
+}
+#dac1{
+  color: #268454;
+  box-shadow: 2px 2px 2px .5px;
+  border-radius: 10px;
+}
+#dac1 img{
+  border: 1px solid #268454;
+  background-color: #268454;
+}
+#dac1:hover{
+  background-color: #268454;
+  color: white;
+	transition: 0.45s;
+  box-shadow: 3px 3px 3px .5px;
+
+}
+#service{
+  text-shadow: 2px 2px #268454;
+}
+#service span{
+  text-shadow: 2px 2px black;
+}
+.sha{
+  text-shadow: 2px 2px black;
+}
+#icon{
+  border: #268454;
+  color: #268454;
+  border-radius: 8px;
+}
+#icon:hover{
+  background-color: #268454;
+  color: aliceblue;
+  box-shadow: 3px 3px 3px 1px green;
+}
+#icon1{
+  border: #268454;
+}
+#icon1 p{
+  color: #1C6C43;
+}
+#icon1 img{
+  background-color: #268454;
+  box-shadow: 3px 3px 3px 1px #268454;
+}
+#icon1 h3{
+  text-shadow: 2px 1px #1C6C43;
+}
+#caro{
+  border: 2px #1C6C43;
+  outline: #1C6C43;
+  color: white;
+}
+#caro1 img{
+  clip-path: circle();
+}
+#caro p{
+  color: #268454;
+}
+#caro i{
+  color: #FFC300;
+}
+#caro1{
+  border-radius: 0px 0px 50% 50%;
+}
+#book1{
+  background-color: #268454;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  text-shadow: 2px 2px black;
+  
+}
+#uimg img{
+  clip-path: circle();
+}
+#foot1{
+  color: #268454;
+}
+#foot2{
+  color: #268454;
+}
